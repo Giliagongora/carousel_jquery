@@ -1,0 +1,21 @@
+
+
+.carousel-control.right {
+    right: 0;
+    left: auto;
+    background-image: none;
+    background-image: none;
+    background-image: none;
+    background-image: none;
+
+}
+.carousel-control.left {
+    background-image: none;
+    background-image: none;
+    background-image: none;
+    background-image: none;
+}
+#myCarousel{
+	width: 400px;
+	height: auto;
+}
